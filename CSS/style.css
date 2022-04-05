@@ -16,7 +16,7 @@ header ul{
 .heroImg{
     height: 510px;
     padding: 50px 85px;
-    background-image: url(/IMAGES/backgroundhero.png);
+    background-image: url('/IMAGES/backgroundhero.png');
     background-position: bottom;
     background-size: cover;
 }
